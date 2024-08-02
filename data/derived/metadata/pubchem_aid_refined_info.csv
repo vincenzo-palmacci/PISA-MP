@@ -1,0 +1,501 @@
+﻿ aid,aidtype,aidname
+1490,Confirmatory,qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase)
+1511,Screening,Primary cell-based high-throughput screening assay for identification of compounds that protect hERG from block by proarrhythmic agents
+1527,Screening,Primary biochemical high throughput screening assay to identify inhibitors of VIM-2 metallo-beta-lactamase
+1529,Screening,Multiplex HTS Assay for Inhibitors of MEK Kinase PB1 Domains
+1530,Screening,Multiplex HTS Assay for Inhibitors of MEK Kinase PB1 Domains
+1531,Screening,Multiplex HTS Assay for Inhibitors of MEK Kinase PB1 Domains
+1554,Screening,MLPCN Ras selective lethality-BJeLR viability
+1556,Screening,Epi-absorbance primary biochemical high throughput screening assay to identify inhibitors of IMP-1 metallo-beta-lactamase
+1565,Confirmatory,uHTS absorbance assay for the identification of compounds that inhibit PHOSPHO1
+1566,Confirmatory,uHTS luminescence assay for the identification of compounds that inhibit NOD2
+1578,Confirmatory,uHTS luminescence assay for the identification of compounds that inhibit NOD1
+1621,Confirmatory,A Cell Based Assay for the Identification of Lead Compounds with Anti-Viral Activity Against West Nile Virus
+1654,Confirmatory,uHTS absorbance assay for the identification of compounds that inhibit VHR1.
+1662,Screening,MLPCN Streptokinase Expression Inhibition
+1663,Screening,MLPCN Platelet Activation -Dense Granule Release
+1672,Screening,Primary cell-based high-throughput screening assay for identification of compounds that inhibit/block inward-rectifying potassium ion channel Kir2.1
+1700,Screening,Primary cell-based high throughput screening assay to identify inhibitors of kruppel-like factor 5 (KLF5)
+1706,Screening,QFRET-based primary biochemical high throughput screening assay to identify inhibitors of the SARS coronavirus 3C-like Protease (3CLPro)
+1721,Confirmatory,qHTS Assay for Inhibitors of Leishmania Mexicana Pyruvate Kinase (LmPK)
+1777,Confirmatory,uHTS identification of small molecule agonists of the kappa opioid receptor via a luminescent beta-arrestin assay
+1778,Confirmatory,uHTS identification of small molecule antagonists of the kappa opioid receptor via a luminescent beta-arrestin assay
+1779,Confirmatory,uHTS identification of small molecule inhibitors of LYP via a fluorescence intensity assay
+1789,Screening,Luminescence-based primary biochemical high throughput screening assay to identify inhibitors of the Heat Shock Protein 90 (HSP90)
+1800,Screening,Fluorescence-based primary biochemical high throughput screening assay to identify inhibitors of the Hepatitis C Virus non-structural protein 3 helicase (NS3)
+1813,Screening,MLPCN Alpha-Synuclein 5'UTR - 5'-UTR binding - inhibitors
+1814,Screening,MLPCN Alpha-Synuclein 5'UTR - 5'-UTR binding - activators
+1817,Confirmatory,uHTS identification of small molecule antagonists of the binding of Siah-1 and a peptide ligand via a fluorescence polarization assay.
+1822,Screening,QFRET-based primary biochemical high throughput screening assay to identify inhibitors of the Plasmodium falciparum M18 Aspartyl Aminopeptidase (PFM18AAP).
+1825,Screening,Luminescence-based counterscreen assay for KLF5 inhibitors: cell-based high throughput screening assay to identify cytotoxic compounds using the IEC-6 intestinal epithelial cell line.
+1832,Screening,MLPCN maternal gene expression-MEX-5 TCR-2 binding assay-Primary Screen
+1845,Screening,Fluorescence-based counterscreen assay for HCV NS3 helicase inhibitors: biochemical high-throughput screening assay to identify compounds that cause fluorescent intercalator displacement (FID)
+1850,Confirmatory,A small molecule screen for inhibitors of the PhoP regulon in Salmonella typhi
+1861,Screening,Fluorescence-based primary cell-based high throughput screening assay to identify antagonists of the G-protein coupled receptor 7 (GPR7).
+1863,Confirmatory,A small molecule screen for inhibitors of the PhoP regulon in Salmonella Typhimurium
+1875,Screening,Luminescence Cell-Based Primary HTS to Identify Inhibitors of Polyadenylation
+1885,Screening,Luminescence Cell-Based/Microorganism Primary HTS to Identify Inhibitors of T.Cruzi Replication
+1899,Screening,TR-FRET-based primary biochemical high-throughput screening assay to identify inhibitors of Hepatitis C Virus (HCV) core protein dimerization
+1903,Confirmatory,Identification of SV40 T antigen inhibitors: A route to novel anti-viral reagents
+1906,Screening,QFRET-based counterscreen for PFM18AAP inhibitors: biochemical high throughput screening assay to identify inhibitors of the Cathepsin L proteinase (CTSL1).
+1910,Screening,Luminescence Cell-Based Primary HTS to Identify Transcriptional Activators of Hypoxia-Inducible Factor Pathway
+1947,Screening,Fluorescence polarization-based counterscreen for RBBP9 inhibitors: primary biochemical high throughput screening assay to identify inhibitors of the serine hydrolase family member Fam108B.
+1950,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of the Epstein-Barr virus nuclear antigen 1 (EBNA-1).
+1961,Confirmatory,Image-based HTS for Selective Agonists of GPR55
+1962,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of tRNA 2'-phosphotransferase (TPT1).
+1974,Screening,Fluorescence polarization-based counterscreen for RBBP9 inhibitors: primary biochemical high throughput screening assay to identify inhibitors of the oxidoreductase glutathione S-transferase omega 1(GSTO1).
+1979,Screening,Fluorescence Cell-Based Primary HTS of C.albicans growth in the presence of Fluconazole and compound
+1984,Confirmatory,Fluorescence for the identification of compounds that decrease p/CIP protein stability
+1986,Confirmatory,uHTS fluorescence assay for the identification of Human Immunodeficiency Virus Fusion Inhibitors.
+1987,Screening,Fluorescence-based primary biochemical high throughput screening assay to identify inhibitors of Protein Phosphatase 5 (PP5).
+2006,Confirmatory,uHTS HTRF assay for identification of inhibitors of SUMOylation
+2012,Confirmatory,uHTS fluorescence polarization assay for the identification of translation initiation inhibitors (eIF4H)
+2013,Confirmatory,Image-Based HTS for Selective Antagonists for GPR55
+2014,Confirmatory,uHTS fluorescence polarization assay for the identification of translation initiation inhibitors (PABP)
+2016,Screening,Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_ MEP2_MLPCN.
+2023,Screening,Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_ LAP4_MLPCN.
+2025,Screening,Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_ RPL19A_MLPCN.
+2029,Screening,Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_ CIT2_MLPCN.
+2052,Screening,HTS for developing T Cell Immune Modulators
+2057,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of myeloid cell leukemia sequence 1 (MCL1) interactions with BIM-BH3 peptide.
+2058,Confirmatory,Image-Based HTS for Selective Antagonists of GPR35
+2066,Screening,Multiplex HTS Screen of TOR pathway GFP-fusion proteins in Saccharomyes cerevisiae_specifically_ AGP1_MLPCN.
+2071,Screening,Colorimetric  Assay for Inhibitors for NALP1
+2073,Confirmatory,Homogeneous Time-Resolved Fluorescence Resonance Energy Transfer (HTRF) Assay
+2094,Screening,Plate Read Microorganism-Based Primary HTS to Identify Modulators of the AI-2 Quorum Sensing System
+2097,Screening,Cell-Free Homogeneous Primary HTS to Identify Inhibitors of GSK3beta Activity
+2098,Screening,Luminescence Cell-Based Primary HTS to Identify Inhibitors of Heat Shock Factor 1 (HSF1).
+2099,Screening,Fluorescence Biochemical Primary HTS to Identify Inhibitors of GASC-1 Activity
+2100,Confirmatory,qHTS Assay for Inhibitors and Activators of Human alpha-Glucosidase Cleavage of Glycogen
+2101,Confirmatory,qHTS Assay for Inhibitors and Activators of N370S glucocerebrosidase as a Potential Chaperone Treatment of Gaucher Disease
+2129,Screening,Primary biochemical high throughput screening assay to identify inhibitors of BCL2-related protein
+2130,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of Protein Phosphatase Methylesterase 1 (PME-1).
+2156,Screening,Primary cell-based high-throughput screening assay for identification of compounds that inhibit KCNQ2 potassium channels
+2174,Screening,Counterscreen for PME1 inhibitors: fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of lysophospholipase 1 (LYPLA1).
+2177,Screening,Counterscreen for PME1 inhibitors: fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of lysophospholipase 2 (LYPLA2).
+2216,Screening,Fluorescence Cell-Free Homogeneous Primary HTS to Identify Inhibitors of the RanGTP-Importin-beta complex
+2221,Screening,Fluorescence Cell-Free Homogenous Primary HTS to Identify Inhibitors of RecA Intein Splicing Activity
+2227,Screening,Primary cell-based high-throughput screening assay for identification of compounds that allosterically potentiate transient receptor potential cation channel C4 (TRPC4)
+2234,Screening,Counterscreen for inhibitors of EBNA-1: fluorescence polarization-based biochemical high throughput primary assay to identify inhibitors of the Epstein-Barr virus-encoded protein
+2235,Screening,Counterscreen for inhibitors of PP5: fluorescence-based biochemical high throughput primary assay to identify inhibitors of Protein Phosphatase 1 (PP1).
+2237,Screening,Primary cell-based screen for identification of compounds that activate transient receptor potential cation channel C4 (TRPC4).
+2239,Screening,Primary cell-based high-throughput screening assay for identification of compounds that potentiate KCNQ2 potassium channels
+2247,Screening,Primary cell-based screen for identification of compounds that inhibit transient receptor potential cation channel C4 (TRPC4).
+2280,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of GLD-1 protein - TGE RNA interaction.
+2288,Confirmatory,qHTS Assay for Modulators of miRNAs and/orActivators of miR-21
+2289,Confirmatory,qHTS Assay for Modulators of miRNAs and/or Inhibitors of miR-21
+2300,Screening,TR-FRET-based primary biochemical high throughput screening assay to identify agonists of nuclear receptor subfamily 2
+2314,Screening,Cycloheximide Counterscreen for Small Molecule Inhibitors of Shiga Toxin
+2315,Screening,A qHTS for Small Molecule Inhibitors of Shiga Toxin
+2380,Screening,uHTS identification of small molecules that induce b-cell replication in the MIN-6 cell line
+2391,Confirmatory,A Cell Based HTS Approach for the Discovery of New Inhibitors of Respiratory syncytial virus (RSV)
+2435,Screening,Fluorescence-based primary cell-based high throughput screening assay to identify agonists of the Oxytocin Receptor (OXTR).
+2445,Screening,Fluorescence-based primary cell-based high throughput screening assay to identify potentiators of Oxytocin Receptor (OXTR)
+2462,Screening,Luminescence Cell-Based Primary HTS to Identify Inhibitors of A1 Apoptosis.
+2472,Screening,qHTS Assay for Inhibitors of Fructose-1
+2517,Confirmatory,qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1 (APE1)
+2520,Screening,uHTS identification of small molecule agonists of the APJ  receptor  via a luminescent beta-arrestin assay
+2521,Screening,uHTS identification of small molecule antagonists of the APJ  receptor  via a luminescent beta-arrestin assay
+2524,Screening,uHTS Luminescent assay for identification of activators of human intestinal alkaline phosphatase
+2528,Confirmatory,qHTS Assay for Inhibitors of Bloom's syndrome helicase (BLM)
+2540,Screening,HTS Luminescent assay for identification of inhibitors of Sentrin-specific protease 8 (SENP8)
+2544,Screening,uHTS Luminescent assay for identification of inhibitors of human intestinal alkaline phosphatase
+2550,Screening,High throughput screening of activators of transient receptor potential cation channel C6 (TRPC6)
+2553,Screening,High throughput screening of inhibitors of transient receptor potential cation channel C6 (TRPC6)
+2557,Screening,HTS for Identification of VLA-4 Allosteric Modulators from MLPCN library
+2563,Screening,Fluorescence Cell-Free Homogenous Primary HTS  to Identify Inhibitors of the Ras-converting Enzyme
+2599,Screening,uHTS Luminescent assay for identification of inhibitors of Sentrin-specific protease 6 (SENP6)
+2606,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of the membrane-associated serine protease Rv3671c in M.tuberculosis
+2629,Screening,Fluorescence Polarization Cell-Free Homogeneous Primary HTS to Identify Inhibitors of the LANA Histone H2A/H2B Interaction
+2642,Screening,Primary cell-based high-throughput screening assay for identification of compounds that inhibit KCNQ1 potassium channels
+2648,Screening,Primary cell-based high-throughput screening assay for identification of compounds that potentiate/activate KCNQ1 potassium channels
+2650,Screening,Luminescence Cell-Free  Homogenous Primary HTS to Identify Inhibitors of GSK-3 alpha
+2661,Screening,Luminescence Cell-Free  Homogenous Primary HTS to Identify Inhibitors of Serine/Threonine  Kinase 33  Activity
+2662,Confirmatory,qHTS Fluorescence Polarization Assay for Inhibitors of MLL CXXC domain - DNA interaction
+2676,Confirmatory,qHTS Assay for Agonists of the Relaxin Receptor RXFP1
+2690,Screening,A yeast HTS for caloric restriction mimetics that inhibit age-related superoxide
+2716,Screening,Luminescence  Microorganism Primary HTS to Identify Inhibitors of the SUMOylation Pathway Using a Temperature Sensitive Growth Reversal Mutant Mot1-301
+2717,Screening,Luminescence Cell-Based Primary HTS to Identify Inhibitors of Cancer Stem Cells
+2718,Screening,Fluorescence Cell-Free Homogeneous Primary HTS to Identify Inhibitors of Histone Deacetylase 3
+2751,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of the prolyl oligopeptidase-like enzyme (PREPL)
+2796,Screening,Luminescence-based primary cell-based high throughput screening assay to identify activators of the Aryl Hydrocarbon Receptor (AHR)
+2797,Screening,Counterscreen for Oxytocin Receptor (OXTR) agonists: Fluorescence-based primary cell-based high throughput assay to identify agonists of the vasopressin 1 receptor (V1R)
+2805,Screening,uHTS Luminescent assay for identification of activators of mouse intestinal alkaline phosphatase
+2806,Screening,uHTS Luminescent assay for identification of inhibitors of mouse intestinal alkaline phosphatase
+2825,Screening,uHTS Luminescent assay for identification of inhibitors of NALP3 in yeast
+434955,Confirmatory,Screen to Identify Novel Compounds That Sensitize Mycobacterium Tuberculosis to Beta-lactam Antibiotics
+434962,Screening,Fluorescence polarization-based cell-based primary high throughput screening assay to identify inhibitors of insulin-degrading enzyme (IDE)
+434973,Screening,uHTS Luminescent assay for identification of inhibitors of Sentrin-specific protease 7 (SENP7)
+434989,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the orexin 1 receptor (OX1R; HCRTR1)
+435003,Screening,uHTS luminescence assay for the identification of chemical inhibitors of T-cell specific antigen receptor-induced NF-kB activation
+435005,Screening,Luminescence Cell-Based Primary HTS to Identify Inhibitors of Beta Cell Apoptosis.
+435022,Screening,uHTS luminescence assay for the identification of chemical inhibitors of B-cell specific antigen receptor-induced NF-kB activation
+435030,Screening,Absorbance-based primary bacterial cell-based high throughput screening assay to identify inhibitors of AddAB recombination protein complex
+449728,Screening,Counterscreen for inhibitors of AddAB: absorbance-based bacterial cell-based high throughput screening assay to identify inhibitors of bacterial viability
+449762,Confirmatory,High Throughput Screening Assay used to Identify Novel Compounds that Inhibit Mycobacterium Tuberculosis in 7H9 Media
+449763,Screening,uHTS identification of small molecule activators of the apoptotic arm of the Unfolded Protein response via a luminescent-based reporter assay
+463079,Screening,Fluorescence-based counterscreen for orexin 1 receptor (OX1R) antagonists: cell-based assay to identify antagonists of the parental CHO cell line
+463082,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of the plasma platelet activating factor acetylhydrolase (pPAFAH)
+463104,Screening,uHTS identification of small molecule activators of the adaptive arm of the Unfolded Protein response via a luminescent-based reporter assay
+463111,Screening,Primary cell-based high-throughput screening assay for identification of compounds that potentiate/activate regulator of G-protein signaling 4 (RGS4)
+463141,Screening,Absorbance-based primary biochemical high throughput screening assay to identify activators of procaspase-3
+463165,Screening,Primary cell-based high-throughput screening assay for identification of compounds that inhibit regulator of   G-protein signaling 4 (RGS4)
+463190,Screening,uHTS identification of small molecule inhibitors of tim10-1 yeast via a luminescent assay
+463195,Screening,uHTS identification of small molecule inhibitors of tim10 yeast via a luminescent assay
+463210,Screening,Counterscreen for procaspase-3 activators: absorbance-based primary biochemical high throughput screening assay to identify activators of procaspase-7
+463212,Screening,uHTS identification of small molecule inhibitors of tim23-1 yeast via a luminescent assay
+463254,Confirmatory,qHTS Assay for Inhibitors of Ubiquitin-specific Protease USP2a Using CHOP2 as the Reporter
+485270,Screening,FRET-based cell-based primary high throughput screening assay to identify antagonists of the orexin 1 receptor (OX1R; HCRTR1)
+485272,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of Protein Arginine Deiminase 4 (PAD4) (1536 HTS)
+485273,Screening,uHTS identification of UBC13 Polyubiquitin Inhibitors via a TR-FRET Assay
+485275,Screening,Phenotypic HTS multiplex for antifungal efflux pump inhibitors
+485281,Confirmatory,qHTS Assay for Identification of Novel General Anesthetics
+485290,Confirmatory,qHTS Assay for Inhibitors of Tyrosyl-DNA Phosphodiesterase (TDP1)
+485294,Confirmatory,qHTS Inhibitors of AmpC Beta-Lactamase (assay with detergent)
+485297,Confirmatory,qHTS Assay for Rab9 Promoter Activators
+485298,Confirmatory,qHTS Assay for Small Molecule Inhibitors of Mitochondrial Division or Activators of Mitochondrial Fusion
+485313,Confirmatory,qHTS Assay for NPC1 Promoter Activators
+485314,Confirmatory,qHTS Assay for Inhibitors of DNA Polymerase Beta
+485317,Screening,HTS-Luminescent assay for inhibitors of ALR by detection of hydrogen peroxide production Measured in Biochemical System Using Plate Reader - 2036-02_Inhibitor_SinglePoint_HTS
+485341,Confirmatory,qHTS Inhibitors of AmpC Beta-Lactamase (assay without detergent)
+485344,Screening,HTS Assay for Allosteric Antagonists of the Human D2 Dopamine Receptor: Primary Screen for Antagonists
+485346,Screening,uHTS for identification of Inhibitors of Mdm2/MdmX interaction in luminescent format.
+485347,Screening,HTS Assay for Positive Allosteric Modulators of the Human D2 Dopamine Receptor: Primary Screen for Potentiators
+485349,Confirmatory,qHTS Assay for Identifying a Potential Treatment of Ataxia-Telangiectasia
+485353,Confirmatory,qHTS of Yeast-based Assay for SARS-CoV PLP
+485358,Screening,HTS Assay for Allosteric Agonists of the Human D2 Dopamine Receptor: Primary Screen for Agonists
+485364,Confirmatory,qHTS Assay for the Inhibitors of Schistosoma Mansoni Peroxiredoxins
+485367,Confirmatory,qHTS Assay to Find Inhibitors of T. brucei phosphofructokinase
+488837,Confirmatory,qHTS Assay for Inhibitors of the Phosphatase Activity of Eya2
+488839,Screening,Development of CDK5 inhibitors   Measured in Biochemical System Using Plate Reader - 2083-01_Inhibitor_SinglePoint_HTS_Activity
+488847,Screening,RNA aptamer-based HTS for inhibitors of GRK2
+488862,Screening,Inhibitors of Prion Protein 5' UTR mRNA Measured in Cell-Based System Using Plate Reader - 2078-01_Inhibitor_SinglePoint_HTS_Activity
+488890,Confirmatory,Elucidation of physiology of non-replicating
+488895,Screening,High Throughput Screen for Tat Transport Inhibitors Measured in Microorganism System Using Plate Reader - 2093-01_Inhibitor_SinglePoint_HTS_Activity
+488896,Screening,HTS using DiI-HDL to assay lipid transfer in ldlA[SR-BI] cells Measured in Cell-Based System Using Plate Reader - 2085-01_Inhibitor_SinglePoint_HTS_Activity
+488899,Screening,MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Inhibitor_SinglePoint_HTS_Activity
+488922,Screening,Primary cell-based screen for identification of compounds that inhibit the two-pore domain potassium channel KCNK9
+488965,Screening,Fluorescent Biochemical Primary HTS to Identify Inhibitors of P. aeruginosa PvdQ acylase Measured in Biochemical System Using Plate Reader and Imaging Combination - 2091-01_Inhibitor_SinglePoint_HTS_Activity
+488966,Confirmatory,Primary and Confirmatory Screening for Inhibitors of Bacterial Capsule Biogenesis
+488975,Screening,Primary cell-based screen for identification of compounds that inhibit the Choline Transporter (CHT)
+488977,Screening,Primary cell-based screen for identification of compounds that allosterically activate the Choline Transporter (CHT)
+489030,Screening,uHTS Fluorescent assay for identification of inhibitors of Apaf-1
+489031,Screening,uHTS Fluorescent assay for identification of activators of Apaf-1
+492947,Confirmatory,qHTS assay of beta-arrestin-biased ligands of beta2-adrenergic receptor
+492953,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of human platelet-activating factor acetylhydrolase 1b
+492956,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of human platelet activating factor acetylhydrolase 2 (PAFAH2)
+492972,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of human platelet-activating factor acetylhydrolase 1B
+493005,Confirmatory,qHTS Assay for Iinhibitors of HIV-1 Budding by Blocking the Interaction of PTAP/TSG101
+493008,Screening,Fluorescence-based biochemical primary high throughput screening assay to identify activators of the calcium sensitivity of cardiac Regulated Thin Filaments (RTF)
+493011,Screening,uHTS identification of APOBEC3A DNA Deaminase Inhibitors via a fluorescence-based single-stranded DNA deaminase assay
+493012,Screening,uHTS identification of APOBEC3G DNA Deaminase Inhibitors via a fluorescence-based single-stranded DNA deaminase assay
+493036,Screening,Image-Based HTS for Selective Agonists for NTR1
+493056,Screening,qHTS for Small Molecule Agonists and Allosteric Enhancers of Human TRH Receptor: Primary Screen for Enhancers
+493084,Screening,qHTS for Small Molecule Agonists and Allosteric Enhancers of Human TRH Receptor: Primary Screen for Agonists.
+493087,Screening,Fluorescence polarization-based cell-based primary high throughput screening assay to identify activators of insulin-degrading enzyme (IDE)
+493091,Screening,uHTS Colorimetric assay for identification of inhibitors of Scp-1
+493098,Screening,uHTS identification of small molecule antagonists of the CCR6 receptor via a luminescent beta-arrestin assay
+493131,Screening,Activator for delta FosB/delta FosB homodimer Measured in Biochemical System Using Plate Reader - 2072-01_Activator_SinglePoint_HTS_Activity
+493160,Screening,uHTS Fluorescent assay for identification of inhibitors of hexokinase domain containing  I (HKDC1)
+493187,Screening,uHTS Fluorescent assay for identification of activators of hexokinase domain containing  I (HKDC1)
+493244,Screening,Fluorescence-based biochemical primary high throughput screening assay to identify inhibitors of the calcium sensitivity of cardiac Regulated Thin Filaments (RTF)
+504326,Screening,Luminescence-based cell-based primary high throughput screening assay to identify agonists of heterodimerization of the mu 1 (OPRM1) and delta 1 (OPRD1) opioid receptors
+504327,Confirmatory,qHTS Assay for Inhibitors of GCN5L2
+504329,Confirmatory,Discovery of Small Molecule Probes for H1N1 Influenza NS1A
+504332,Confirmatory,qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a
+504333,Confirmatory,qHTS Assay for Inhibitors of BAZ2B
+504339,Confirmatory,qHTS Assay for Inhibitors of JMJD2A-Tudor Domain
+504357,Screening,Luminescence-based cell-based primary high throughput screening assay to identify inverse agonists of heterodimerization of the mu 1 (OPRM1) and delta 1 (OPRD1) opioid receptors
+504406,Screening,Inhibitors of Mycobacterium tuberculosis UDP-galactopyranose mutase (UGM) enzyme - High throughput screening using Fluorescent polarization assay Measured in Biochemical System Using Plate Reader - 2105-01_Inhibitor_SinglePoint_HTS_Activity_Set6
+504408,Screening,Heat Shock Factor-1 (HSF-1) Measured in Cell-Based System Using Plate Reader - 2038-01_Activator_SinglePoint_HTS_Activity
+504411,Screening,Fluorescence-based primary biochemical high throughput screening assay to identify inhibitors of human diacylglycerol lipase
+504414,Screening,Fluorescence Polarization with Cer CAL-PDZ Measured in Biochemical System Using Plate Reader - 2109-01_Inhibitor_SinglePoint_HTS_Activity
+504423,Screening,C-LANA FP assay Measured in Biochemical System Using Plate Reader - 2117-01_Inhibitor_SinglePoint_HTS_Activity
+504441,Screening,Dyrk1 A HTS Measured in Biochemical System Using Plate Reader - 2124-01_Inhibitor_SinglePoint_HTS_Activity
+504444,Confirmatory,Nrf2 qHTS screen for inhibitors
+504454,Screening,HTS for Beta-2AR agonists via FAP method
+504462,Screening,uHTS fluorescent assay for identification of inhibitors of ATG4B
+504466,Confirmatory,qHTS screen for small molecules that induce genotoxicity in human embryonic kidney (HEK293T) cells expressing luciferase-tagged ELG1
+504490,Screening,Assay for Inhibitors of the beta-Arrestin-Adaptor Protein 2 Interaction That Mediate GPCR Degradation and Recycling
+504523,Screening,Fluorescence polarization to screen for inhibitors that disrupt the protein-protein interaction between Keap1 and Nrf2   Measured in Biochemical System Using Plate Reader - 2119-01_Inhibitor_SinglePoint_HTS_Activity
+504558,Screening,Inhibitors of Epstein-Barr LMP1 inducible NF-kappaB luciferase reporter Measured in Cell-Based System Using Plate Reader - 2122-01_Inhibitor_SinglePoint_HTS_Activity
+504577,Screening,HTS of Small Molecules that Regulate V-ATPase Proton Transport in Yeast using pHLuorin
+504582,Screening,In vivo-based yeast HTS to detect compounds rescuing yeast growth/survival of Plasmodium Falciparum HSP40-mediated toxicity Measured in Whole Organism System Using Plate Reader - 2120-01_Inhibitor_SinglePoint_HTS_Activity
+504621,Screening,Anti-Malarial Hsp90 Inhibitors Measured in Microorganism System Using Plate Reader - 2121-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+504634,Screening,Counterscreen for inverse agonists of OPRM1-OPRD1 heterodimerization: luminescence-based cell-based full-deck high throughput screening assay to identify inverse agonists of 5-hydroxytryptamine (serotonin) 5A receptor (HTR5A)
+504648,Confirmatory,Nrf2 qHTS screen for inhibitors: counterscreen for cytotoxicity
+504651,Screening,Potentiators of Human D1 Dopamine Receptor: qHTS
+504652,Screening,Antagonist of Human D 1 Dopamine Receptor: qHTS
+504660,Screening,Allosteric Agonists of the Human D1 Dopamine Receptor: qHTS
+504690,Screening,uHTS identification of small molecule inhibitors of Plasmodium falciparum Glucose-6-phosphate dehydrogenase via a fluorescence intensity assay
+504692,Screening,Counterscreen for agonists of OPRM1-OPRD1 heterodimerization: luminescence-based cell-based full-deck high throughput screening assay to identify agonists of 5-hydroxytryptamine (serotonin) 5A receptor (HTR5A)
+504700,Screening,Fluorescence polarization-based biochemical primary high throughput screening assay to identify activators of the Protein Kinase A-R2B (PKA-R2B) complex
+504706,Confirmatory,qHTS assay for re-activators of p53 using a Luc reporter
+504707,Screening,Fluorescence polarization-based biochemical primary high throughput screening assay to identify activators of the Protein Kinase A-R1A (PKA-R1A) complex
+504720,Screening,uHTS identification of MazEF TA System activators  via a fluorescence-based single-stranded RNase assay
+504734,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify inhibitors of TLR9-MyD88 binding.
+504766,Screening,Luminescence-based primary cell-based high throughput screening assay to identify inhibitors of the orphan nuclear receptor subfamily 0
+504775,Screening,HTS using DiI-HDL to assay lipid transfer in ldlA[SR-BI] cells Measured in Cell-Based System Using Plate Reader - 2085-01_Activator_SinglePoint_HTS_Activity
+504803,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of the HTRA serine peptidase 1 (HTRA1)
+504810,Screening,Antagonists of the Thyroid Stimulating Hormone Receptor: HTS campaign
+504812,Screening,Inverse Agonists of the Thyroid Stimulating Hormone Receptor: HTS campaign
+504842,Confirmatory,Inhibitors of TCP-1 ring complex (TRiC) of Methanococcus maripaludis (MmCpn): qHTS
+504845,Confirmatory,Inhibitors of Regulator of G Protein Signaling (RGS) 4: qHTS
+504847,Confirmatory,Inhibitors of the vitamin D receptor (VDR): qHTS
+504884,Screening,Inhibitors of Y. pestis Topo-I using cleavage product accumulation Measured in Biochemical System Using Plate Reader - 2123-01_Inhibitor_SinglePoint_HTS_Activity
+504891,Confirmatory,qHTS Assay to Find Inhibitors of Pin1
+504894,Confirmatory,Activators of T cell receptors: qHTS campaign
+504937,Confirmatory,Inhibitors of Secretory Acid Sphingomyelinase (S-ASM): qHTS
+540253,Confirmatory,qHTS Assay for Inhibitors of RanGTP induced Rango (Ran-regulated importin-beta cargo) - Importin beta complex dissociation
+540263,Confirmatory,qHTS Assay for Inhibitors of Rango (Ran-regulated importin-beta cargo) - Importin beta complex formation
+540267,Screening,Small Molecules that selectively kill Giardia lamblia: qHTS
+540275,Screening,HTS Assay for Compounds that Act as Agonists of the Vanilloid Receptor 1
+540277,Screening,HTS Assay for Compounds that Act as Potentiators of the Vanilloid Receptor 1
+540295,Screening,TRFRET-based cell-based primary high throughput screening assay to identify biased ligands of the melanocortin 4 receptor (MC4R): antagonists of MC4R
+540303,Confirmatory,qHTS for Inhibitors of Cell Surface uPA Generation
+540308,Screening,Luminescence-based cell-based primary high throughput screening assay to identify biased ligands of the melanocortin 4 receptor (MC4R): agonists of MC4R
+540317,Confirmatory,HTS for Inhibitors of HP1-beta Chromodomain Interactions with Methylated Histone Tails
+540336,Screening,Rtt109/Vps75 Measured in Biochemical System Using Plate Reader - 2106-01_Inhibitor_SinglePoint_HTS_Activity
+540364,Screening,Luminescence-based cell-based primary high throughput screening assay to identify activators of the GAA850 frataxin (FXN) promoter
+588334,Screening,MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Activator_SinglePoint_HTS_Activity
+588335,Screening,Counterscreen for inhibitors of the fructose-bisphosphate aldolase (FBA) of M. tuberculosis: Absorbance-based biochemical high throughput Glycerophosphate Dehydrogenase-Triosephosphate Isomerase (GDH-TPI) full deck assay to identify assay artifacts
+588342,Confirmatory,qHTS profiling assay for firefly luciferase inhibitor/activator using purifed enzyme and Km concentrations of substrates (counterscreen for miR-21 project)
+588352,Screening,Luminescence-based cell-based primary high throughput screening assay to identify inhibitors of the Steroid Receptor Coactivator 3 (SRC3; NCOA3)
+588354,Screening,Luminescence-based cell-based primary high throughput screening assay to identify inhibitors of the Steroid Receptor Coactivator 1 (SRC1; NCOA1)
+588358,Screening,HTS to Find Inhibitors of Pathogenic Pemphigus Antibodies
+588391,Screening,Turbidometric Biochemical  Primary HTS  to identify inhibitors of Protein Disulfide Isomerase Measured in Biochemical System Using Plate Reader - 2137-01_Inhibitor_SinglePoint_HTS_Activity
+588405,Screening,HTS Assay for Peg3 Promoter Inhibitors
+588413,Screening,uHTS identification of Gli-Sufu Antagonists in a luminescence reporter assay
+588436,Screening,Cholera Quorum: HTS for inducers of light production in the absence ofautoinducers using BH1578 (luxS deficient
+588453,Confirmatory,qHTS Assay for Inhibitors of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1): qHTS
+588456,Confirmatory,qHTS Assay for Substrates of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1): qHTS
+588458,Screening,uHTS identification of DNMT1 inhibitors in a Fluorescent Molecular Beacon assay
+588473,Screening,uHTS identification of agonists of the CRF-binding protein and CRF-R2 receptor complex
+588475,Screening,uHTS identification of antagonists of the CRF-binding protein and CRF-R2 receptor complex
+588478,Other,A screen for small molecule inhibitors of the human deubiquitinating enzyme
+588489,Screening,uHTS identification of microRNA-mediated mRNA deadenylation inhibitors by fluoresence polarization assay
+588492,Screening,uHTS identification of small molecule modulators of myocardial damage
+588493,Screening,uHTS identification of inhibitors of Rpn11 in a Fluorescent Polarization assay
+588497,Screening,High-throughput multiplex microsphere screening for inhibitors of toxin protease
+588499,Screening,High-throughput multiplex microsphere screening for inhibitors of toxin protease
+588501,Screening,High-throughput multiplex microsphere screening for inhibitors of toxin protease
+588511,Screening,Primary cell-based high-throughput screening for identification of compounds that inhibit/block calcium-activated chloride channels (TMEM16A)
+588549,Screening,Fluorescence polarization to screen for inhibitor that competite the binding of FadD28 to bisubstrate Measured in Biochemical System Using Plate Reader - 2147-01_Inhibitor_SinglePoint_HTS_Activity
+588579,Confirmatory,qHTS for Inhibitors of Polymerase Kappa
+588590,Confirmatory,qHTS for Inhibitors of Polymerase Iota
+588591,Confirmatory,qHTS for Inhibitors of Polymerase Eta
+588621,Screening,uHTS identification of small molecule inhibitors of Striatal-Enriched Phosphatase via a fluorescence intensity assay
+588627,Screening,Primary cell-based high-throughput screening for identification of compounds that activate MrgX1 receptor signaling
+588664,Screening,TRFRET-based biochemical primary high throughput screening assay to identify inhibitors of the interaction of the Ras and Rab interactor 1 protein (Rin1) and the c-abl oncogene 1
+588674,Screening,Schnurri-3 Inhibitors: specific inducers of adult bone formation Measured in Cell-Based System Using Plate Reader - 2134-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+588675,Screening,Primary cell-based high-throughput screening for identification of compounds that allosterically activate MrgX1 receptor signaling
+588676,Screening,Primary cell-based high-throughput screening for identification of compounds that antagonize MrgX1 receptor signaling
+588689,Confirmatory,Primary and Confirmatory Screening for Flavivirus Genomic Capping Enzyme Inhibition
+588692,Screening,Luciferase Reporter Cell Based HTS to identify inhibitors of N-linked Glycosylation Measured in Cell-Based System Using Plate Reader - 2146-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+588726,Screening,Fluorescence-based biochemical primary high throughput screening assay to identify inhibitors of the fructose-bisphosphate aldolase (FBA) of M. tuberculosis
+588727,Confirmatory,A Cell-Based Confirmatory Screen for Compounds that Inhibit VEEV
+588795,Confirmatory,qHTS Assay for the Inhibitors of Human Flap endonuclease 1 (FEN1).
+588814,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify agonists of the human cholinergic receptor
+588819,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify positive allosteric modulators (PAMs) of the human M1 muscarinic receptor (CHRM1).
+588850,Screening,uHTS identification of cystic fibrosis induced NFkb Inhibitors in a fluoresence assay
+588852,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human M1 muscarinic receptor (CHRM1)
+588855,Confirmatory,qHTS for Inhibitors of TGF-b
+588856,Confirmatory,qHTS for Inhibitors of TGF-b: Cytotox Counterscreen
+602123,Screening,Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of Escherichia coli DNA-binding ATP-dependent protease La (eLon)
+602141,Screening,uHTS determination of small molecule cytotoxicity in a fluorescence assay to identify cystic fibrosis induced NFkb Inhibitors
+602162,Screening,Flow Cytometric HTS Screen for inhibitors of the ABC transporter ABCB6 for MLPCN Compound Set
+602163,Screening,Absorbance-based biochemical primary high throughput screening assay to identify activators of Methionine sulfoxide reductase A (MsrA)
+602179,Confirmatory,qHTS for Inhibitors of mutant isocitrate dehydrogenase 1 (IDH1): qHTS
+602229,Screening,Luminescence-based cell-based high throughput primary screening assay to identify agonists of nuclear receptor subfamily 2
+602233,Confirmatory,qHTS Assay to Find Inhibitors of Phosphoglycerate Kinase
+602244,Screening,uHTS identification of CXCR6 Inhibitors in a B-arrestin luminescence assay
+602247,Screening,Full deck counterscreen for positive allosteric modulators (PAMs) of the human M1 muscarinic receptor (CHRM1): Fluorescence-based cell-based high throughput screening assay to identify nonselective activators and assay artifacts using the parental CHOK1 c
+602248,Screening,Full deck counterscreen for agonists of the human M1 muscarinic receptor (CHRM1): Fluorescence-based cell-based high throughput screening assay to identify nonselective activators and assay artifacts using the parental CHOK1 cell line
+602250,Screening,Full deck counterscreen for antagonists of the human M1 muscarinic receptor (CHRM1): Fluorescence-based cell-based high throughput screening assay to identify nonselective inhibitors and assay artifacts using the parental CHOK1 cell line
+602252,Screening,Fluorescence Polarization with CAL-PDZ Measured in Biochemical System Using Plate Reader - 2109-02_Inhibitor_SinglePoint_HTS_Activity
+602261,Screening,uHTS identification of small molecule inhibitors of  the thioesterase domain of fatty acid synthase via a fluorescence intensity assay
+602274,Screening,uHTS luminescent assay for identification of compounds that enhance the survival of human induced pluripotent stem cells when cultured as single cells
+602281,Screening,Luminescence-based biochemical primary high throughput screening assay to identify inhibitors of the interaction of the lipase co-activator protein
+602310,Confirmatory,qHTS for Inhibitors of Vif-A3G Interactions: qHTS
+602313,Confirmatory,qHTS for Inhibitors of Vif-A3F Interactions: qHTS
+602329,Screening,Identification of inhibitors of RAD54 Measured in Biochemical System Using Plate Reader - 2159-01_Inhibitor_SinglePoint_HTS_Activity
+602332,Confirmatory,qHTS for Inducers of the Endoplasmic Reticulum Stress Response (ERSR) in Human Glioma: qHTS
+602340,Screening,HTS for suppressors of simvastatin-induced mytoxicity in differentiated C2C12 cells Measured in Cell-Based System Using Plate Reader - 2112-01_Suppressor_SinglePoint_HTS_Activity
+602342,Screening,Small molecule inhibitors of miR122  Measured in Cell-Based System Using Plate Reader - 2144-01_Inhibitor_SinglePoint_HTS_Activity
+602346,Screening,Identification of VIF Inhibitors Measured in Cell-Based System Using Imaging - 2108-01_Inhibitor_SinglePoint_HTS_Activity
+602363,Screening,Whole cell Yeast HTS to identify compounds modulating the fidelity of the start codon recognition in eukaryotes. Measured in Whole Organism System Using Plate Reader - 2155-01_Other_SinglePoint_HTS_Activity
+602393,Screening,Screen for inhibitors of the SWI/SNF chromatin remodeling complex (esBAF) in mouse embryonic stem cells with Luciferase reporter assay Measured in Cell-Based System Using Plate Reader - 2141-01_Inhibitor_SinglePoint_HTS_Activity
+602396,Screening,Luminescence-based cell-based primary high throughput screening assay to identify inverse agonists of the liver receptor homolog-1 (LRH-1; NR5A2)
+602399,Screening,uHTS identification of inhibitors of NadD in a Colorimetric assay
+602405,Screening,PgID: DNTB colorimetric HTS to detect inhibitor of PgID Measured in Biochemical System Using Plate Reader - 2164-01_Inhibitor_SinglePoint_HTS_Activity
+602410,Screening,Primary cell-based screen for identification of compounds that inhibit the two-pore domain potassium channel KCNK3
+602429,Screening,uHTS identification of SUMO1-mediated protein-protein interactions
+602438,Screening,uHTS identification of modulators of interaction between CendR and NRP-1 using Fluorescence Polarization assay
+602440,Screening,uHTS Fluorescent Assay Using Nedd8 Protein Substrate for Identification of Inhibitors of Sentrin-Specific Protease 8 (SENP8)
+602449,Screening,uHTS identification of small molecule inhibitors of the mitochondrial permeability transition pore via an absorbance assay
+602481,Screening,Mycobacterium tuberculosis BioA enzyme inhibitor Measured in Biochemical System Using Plate Reader - 2163-01_Inhibitor_SinglePoint_HTS_Activity
+623870,Screening,ARNT-TAC3: AlphaScreen HTS to detect disruption of ARNT/TAC3 interactions Measured in Biochemical System Using Plate Reader - 2158-01_Inhibitor_SinglePoint_HTS_Activity
+623877,Screening,Primary cell-based high-throughput screening for identification of compounds that activate/potentiate calcium-activated chloride channels (TMEM16A)
+623901,Screening,Small molecule inhibitors of miR122  Measured in Cell-Based System Using Plate Reader - 2144-01_Activator_SinglePoint_HTS_Activity
+624037,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify agonists of the human cholinergic receptor
+624038,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify positive allosteric modulators (PAMs) of the human cholinergic receptor
+624040,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human cholinergic receptor
+624125,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human cholinergic receptor
+624126,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify positive allosteric modulators (PAMs) of the human cholinergic receptor
+624127,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify agonists of the human cholinergic receptor
+624168,Screening,uHTS identification of small molecule activators of alpha dystroglycan glycosylation
+624169,Screening,Luminescence-based cell-based primary high throughput screening assay to identify agonists of the mouse 5-hydroxytryptamine (serotonin) receptor 2A (HTR2A)
+624170,Confirmatory,qHTS for Inhibitors of Glutaminase (GLS)
+624171,Confirmatory,qHTS of Nrf2 Activators
+624172,Confirmatory,qHTS of GLP-1 Receptor Agonists
+624173,Confirmatory,qHTS of Trypanosoma Brucei Inhibitors
+624202,Confirmatory,qHTS Assay to Identify Small Molecule Activators of BRCA1 Expression
+624204,Screening,uHTS identification of small molecule inhibitors of the catalytic domain of the SUMO protease
+624246,Confirmatory,qHTS for Small Molecule Inhibitors of the ERG Ets/DNA interaction
+624256,Screening,HTS to identify compounds that promote myeloid differentiation with MLPCN compound set
+624263,Confirmatory,A Quantitative High throughput Screen to Identify Chemical Modulators of PINK1 Expression
+624267,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify inhibitors of the interaction of nucleotide-binding oligomerization domain containing 2 (NOD2) and the receptor-interacting serine-threonine kinase 2 (RIPK2)
+624268,Screening,Luminescence-based biochemical primary high throughput screening assay to identify inhibitors of Trypanosoma brucei methionyl tRNA synthetase (MetRS)
+624287,Confirmatory,qHTS for Agonist of gsp
+624288,Confirmatory,qHTS for Antagonists of gsp
+624291,Confirmatory,qHTS for Activators of Integrin-Mediated Alleviation for Muscular Dystrophy
+624296,Confirmatory,A quantitative high throughput screen for small molecules that induce DNA re-replication in MCF 10a normal breast cells.
+624297,Confirmatory,A quantitative high throughput screen for small molecules that induce DNA re-replication in SW480 colon adenocarcinoma cells.
+624304,Screening,uHTS identification of SKN-1 Inhibitors in a fluoresence assay
+624330,Confirmatory,Discovery of small molecule inhibitors of the oncogenic and cytokinetic protein MgcRacGAP -  Primary and Confirmatory Screens
+624352,Screening,uHTS identification of HIF-2a Inhibitors in a luminesence assay
+624354,Screening,uHTS identification of Caspase-8 TRAIL sensitizers in a luminesence assay
+624377,Screening,Fluorescence polarization-based biochemical primary high throughput screening assay to identify inhibitors of ArfGAP with SH3 domain
+624414,Screening,qHTS for Agonists of the Human Mucolipin Transient Receptor Potential 1 (TRPML1)
+624415,Screening,qHTS for Inhibitors of the Human Mucolipin Transient Receptor Potential 1 (TRPML1)
+624416,Screening,TRFRET-based biochemical primary high throughput screening assay to identify small molecules that bind to the HIV-1-gp120 binding antibody
+624417,Confirmatory,qHTS of GLP-1 Receptor Inverse Agonists (Inhibition Mode)
+624418,Confirmatory,qHTS of GLP-1 Receptor Inverse Agonists: Cytotox Screen
+624463,Other,Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine Receptor: Antagonists
+624464,Other,Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine Receptor: Potentiators
+624465,Other,Beta-Arrestin HTS for Positive Allosteric Modulators of the Human D2 Dopamine Receptor: Agonists
+624466,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human trace amine associated receptor 1 (TAAR1)
+624467,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify agonists of the human trace amine associated receptor 1 (TAAR1)
+624483,Screening,Counterscreen of compound fluorescence effects on High-throughput multiplex microsphere screening for inhibitors of toxin protease
+651550,Screening,HTS Assay for Inhibitors of Akt Phophorylation: Primary Screen
+651560,Screening,uHTS identification of small molecule inhibitors of Low Molecular Weight Protein Tyrosine Phosphatase
+651572,Screening,Fluorescence polarization-based biochemical primary high throughput screening assay to identify inhibitors of ADP-ribosylation factor GTPase activating protein 1 (ARFGAP1)
+651602,Screening,Absorbance-based primary bacterial cell-based high throughput screening assay to identify inhibitors of RecBCD (with phage)
+651610,Screening,HIV entry: Env-mediated Cell Fusion Measured in Cell-Based System Using Plate Reader - 7013-01_Inhibitor_SinglePoint_HTS_Activity
+651635,Confirmatory,Viability Counterscreen for Primary qHTS for Inhibitors of ATXN expression
+651636,Screening,uHTS identification of small molecule antagonists of the EBI2 receptor via a luminescent beta-arrestin assay
+651640,Screening,DENV2 CPE-Based HTS Measured in Cell-Based and Microorganism Combination System Using Plate Reader - 2149-01_Other_SinglePoint_HTS_Activity
+651644,Confirmatory,qHTS Assay for Inhibitors of the HIV-1 protein Vpr
+651647,Screening,uHTS identification of inhibitors of MT1-MMP activation in a fluoresence assay
+651654,Screening,HTS for the detection of C. neoformans cell lysis via adenylate kinase (AK) release Measured in Microorganism System Using Plate Reader - 2162-01_Inhibitor_SinglePoint_HTS_Activity
+651658,Screening,Small Molecule Inhibitors of FGF22-Mediated Excitatory Synaptogenesis & Epilepsy Measured in Biochemical System Using RT-PCR - 7012-01_Inhibitor_SinglePoint_HTS_Activity
+651661,Screening,Luminescence Cell-Based Primary HTS to identify inhibitors of the oncoprotein EWS/Fli transcriptional activity Measured in Cell-Based System Using Plate Reader - 7014-01_Inhibitor_SinglePoint_HTS_Activity
+651687,Screening,MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader - 2139-01_Inhibitor_SinglePoint_HTS_Activity
+651699,Screening,uHTS identification of inhibitors of cullin neddylation in a TR-FRET assay
+651702,Screening,Flow Cytometric HTS Screening for Inhibitors of Lytic Granule Exocytosis with MLPCN Compound Library
+651704,Screening,Inhibition of the MLL-AF4-AF9 Interaction in Pediatric Leukemia Measured in Biochemical System Using Plate Reader - 2160-01_Inhibitor_SinglePoint_HTS_Activity
+651710,Screening,FRET-based HTS for detection of RAD52 Inhibitors Measured in Biochemical System Using Plate Reader - 7018-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+651711,Screening,Turbidometric Biochemical  Primary HTS  to identify inhibitors of ERp5 Measured in Biochemical System Using Plate Reader - 7002-01_Inhibitor_SinglePoint_HTS_Activity
+651718,Screening,Absorbance-based biochemical primary high throughput screening assay to identify inhibitors of Methionine sulfoxide reductase A (MsrA)
+651719,Screening,Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the Galanin Receptor 3 (GalR3)
+651723,Screening,MLPCN PGC1a Modulators Measured in Cell-Based System Using Plate Reader - 2139-01_Activator_SinglePoint_HTS_Activity
+651724,Screening,qHTS Assay for Inhibitors of the CtBP/E1A Interaction
+651725,Screening,qHTS Assay for Inhibitors of the Six1/Eya2 Interaction
+651768,Confirmatory,qHTS for Inhibitors of WRN Helicase
+651800,Screening,Fluorescence-based biochemical primary high throughput assay to identify inhibitors of T-cell receptor (TCR)-CD3 interaction using a TAMRA-labeled TCR probe
+651819,Screening,High-Throughput Screening for Modulators of Cytosolic Chaperonin Activity
+651820,Confirmatory,qHTS Assay for Inhibitors of Hepatitis C Virus (HCV)
+651821,Screening,Fluorescence-based biochemical primary high throughput screening assay to identify molecules that bind r(CAG) RNA repeats
+651957,Screening,Luminescence-based cell-based primary high throughput screening assay to identify inhibitors of the Steroid Receptor Coactivator 2 (SRC2; NCOA2)
+651958,Screening,Fluorescence-based biochemical high throughput screening primary assay to identify inhibitors of Crimean-Congo Hemorrhagic Fever (CCHF) viral ovarian tumor domain protease (vOTU): Pep-AMC substrate
+651965,Confirmatory,qHTS Assay for Activators of ClpP
+651999,Screening,uHTS identification of small molecule inhibitors of Csn-mediated Deneddylation of Cullin-Ring Ligases
+652010,Screening,Luminescence-based cell-based primary high throughput screening assay for inhibitors of the orphan nuclear receptor subfamily 0
+652017,Screening,Luminescence-based cell-based primary high throughput screening assay to identify activators of the function of SWI/SNF related
+652025,Confirmatory,qHTS of IL-2 Activators
+652039,Screening,Fluorescence Intensity-based biochemical primary high throughput screening assay to identify activators of kallikrein-7 (K7) zymogen
+652048,Screening,qHTS of D3 Dopamine Receptor Agonist: qHTS
+652051,Screening,qHTS of D3 Dopamine Receptor Potentiators: qHTS
+652054,Screening,qHTS of D3 Dopamine Receptor Antagonist: qHTS
+652067,Screening,Luminescence-based cell-based primary high throughput screening assay to identify activators of the DAF-12 from the parasite H. contortus (hcDAF-12)
+652104,Confirmatory,qHTS of TDP-43 Inhibitors
+652105,Confirmatory,qHTS for Inhibitors of phosphatidylinositol 5-phosphate 4-kinase (PI5P4K)
+652106,Confirmatory,qHTS of alpha-syn Inhibitors
+652115,Screening,MLPCN SirT-5 Measured in Biochemical System Using Imaging - 7044-01_Inhibitor_SinglePoint_HTS_Activity_Set5
+652126,Screening,Luminescence-based cell-based primary high throughput screening assay to identify activators of the DAF-12 from the parasite S. stercoralis (ssDAF-12)
+652154,Screening,HTS for PAX8 inhibitors using PAX8 luciferase reporter gene assay in RMG-I cells Measured in Cell-Based System Using Plate Reader - 7054-01_Inhibitor_SinglePoint_HTS_Activity
+652162,Screening,C. difficile toxins: HTS for inhibitors of TcdB glycohydrolase activity Measured in Biochemical System Using Plate Reader - 7074-01_Inhibitor_SinglePoint_HTS_Activity
+652163,Screening,S100A4: HTS Measured in Biochemical System Using Plate Reader - 7045-01_Inhibitor_SinglePoint_HTS_Activity
+652197,Screening,MLPCN ERAP1 Measured in Biochemical System Using Plate Reader - 7016-01_Inhibitor_SinglePoint_HTS_Activity
+652257,Screening,Primary biochemical fluorescence polarization-based high throughput screening assay to identify inhibitors of protein arginine methyltransferase 1 (PRMT1)
+686940,Screening,Luminescence-based cell-based primary high throughput screening assay to identify inhibitors of COUP-TFII (NR2F2)
+686964,Screening,TRFRET-based biochemical primary high throughput screening assay to identify inhibitors of 5-meCpG-binding domain protein 2 (MBD2)-DBD binding to methylated oligonucleotide
+686970,Confirmatory,qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS for the HT-1080-NT fibrosarcoma cell line
+686971,Confirmatory,qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS for the HT-1080-IDH1KD cell line
+686978,Confirmatory,qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in absence of CPT
+686979,Confirmatory,qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT
+686996,Screening,VEID(2) R110 Enzymatic Primary HTS to identify Inhibitors of Caspase 6 Measured in Biochemical System Using Plate Reader - 7052-01_Inhibitor_SinglePoint_HTS_Activity_Set2
+687014,Screening,Luminescence-based cell-based primary high throughput screening assay to identify agonists of the DAF-12 from the parasite H. glycines (hgDAF-12).
+687016,Screening,Counterscreen for inhibitors of 5-meCpG-binding domain protein 2 (MBD2): TRFRET-based biochemical primary high throughput screening assay to identify inhibitors of binding of ubiquitin-like with PHD and ring finger domains 1 (UHRF1) to methylated oligonuc
+720504,Confirmatory,qHTS for Inhibitors of PLK1-PDB (polo-like kinase 1 - polo-box domain): Primary Screen
+720508,Screening,Fluorescence polarization-based biochemical primary high throughput screening assay to identify inhibitors that disrupt the binding of a cyclic peptide (Tn7) to the fibrin proteolytic product D-Dimer and fragment E complex [DD(E )]
+720509,Screening,Fluorescence polarization-based biochemical primary high throughput screening assay to identify inhibitors that disrupt the binding of a cyclic peptide (Tn6) to the fibrin proteolytic product D-Dimer and fragment E complex [DD(E )]
+720511,Screening,Identification of Small Molecule Correctors of the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) Delta508 Mutation Function in Human Bronchial Epithelial Cells. Measured in Cell-Based System Using Plate Reader - 7017-01_Other_SinglePoint_HTS_
+720542,Confirmatory,qHTS for Inhibitors of AMA1-RON; Towards Development of Antimalarial Drug Lead: Primary Screen
+720543,Screening,Fluorescence polarization-based biochemical high throughput primary assay to identify inhibitors of alpha/beta hydrolase domain containing 4 (ABHD4).
+720551,Confirmatory,qHTS for Inhibitors of KCHN2 3.1: Wildtype qHTS
+720553,Confirmatory,qHTS for Inhibitors of KCHN2 3.1: Mutant qHTS
+720579,Confirmatory,qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: mCherry Reporter Primary qHTS
+720580,Confirmatory,qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: Venus Reporter Primary qHTS
+720582,Screening,QFRET-based biochemical primary high throughput screening assay to identify exosite inhibitors of ADAM10.
+720596,Screening,TRFRET-based cell-based primary high throughput screening assay to identify inhibitors of cell surface Prion Protein (PRPC)
+720647,Screening,Bursicon-induced LGR2 mediated cAMP production in LGR-2/CRE6x-Luciferase co-transfected HEK293 cells Inhibition
+720648,Screening,QFRET-based biochemical primary high throughput screening assay to identify exosite inhibitors of ADAM17.
+720700,Screening,Fluorescence-based biochemical high throughput primary assay to identify inhibitors of phospholipase C isozymes (PLC-gamma1).
+720702,Screening,Epi Absorbance-based biochemical primary high throughput screening assay to identify inhibitors of human tyrosyl-DNA phosphodiesterase 2 (TDP2)
+720704,Screening,Fluorescence-based biochemical high throughput primary assay to identify inhibitors of phospholipase C isozymes (PLC-beta3).
+720706,Screening,HTS for Bacterial rRNA inhibitors Measured in Microorganism-Based System Using Plate Reader - 7056-01_Inhibitor_SinglePoint_HTS_Activity
+720707,Confirmatory,qHTS for Agonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1): primary screen
+720708,Confirmatory,qHTS for Antagonist of cAMP-regulated guanine nucleotide exchange factor 2 (EPAC2): primary screen
+720709,Confirmatory,qHTS for Antagonist of cAMP-regulated guanine nucleotide exchange factor 3 (EPAC1): primary screen
+720711,Confirmatory,qHTS for Agonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2): primary screen
+743126,Screening,QFRET-based biochemical high throughput primary assay to identify inhibitors of human group III secreted phospholipase A2 enzyme (HGIII-sPLA2)
+743238,Screening,High Content Cell-Based Imaging Primary HTS to Identify Small Molecules Involved in X-Chromosome Reactivation and Reprogramming Measured in Cell-Based System Using Imaging - 7015-01_Activator_SinglePoint_HTS_Activity_Set2
+743247,Screening,Inhibition of Alexa 488-Fibronectin deposition #on AH1F cell monolayers Measured in Cell-Based System Using Plate Reader - 7059-01_Inhibitor_SinglePoint_HTS_Activity
+743255,Confirmatory,Inhibitors of USP1/UAF1: Primary Screen
+743266,Confirmatory,qHTS for PTHR1 Agonists: Primary Screen
+743269,Screening,TRFRET-based biochemical primary high throughput screening assay to identify inhibitors of HIV-1 LEDGF/p75 DNA Integration
+743279,Screening,qHTS for Inhibitors of Inflammasome Signaling:  IL-1-beta AlphaLISA Primary Screen
+743287,Screening,Luminescent GLuc Reporter Gene Assay Primary HTS to Identify Small Molecule Activator of Glucose Dependent Insulin Secretion Measured in Cell-Based System Using Plate Reader - 7055-01_Activator_SinglePoint_HTS_Activity
+743397,Screening,HTS for Inhibition of CaV1.3 ICDI/IQ interaction using a live-cell FRET assay Measured in Cell-Based System Using Plate Reader - 7081-01_Inhibitor_SinglePoint_HTS_Activity
+743398,Screening,Wnt/Beta-catenin HTS Measured in Cell-Based System Using Plate Reader - 2161-01_Activator_SinglePoint_HTS_Activity
+743445,Screening,Development of Small Molecule Probes of the Histone Methyltransferase
+1053175,Other,A screen for compounds that inhibit growth of Escherichia coli
+1053197,Screening,Fluorescence polarization-based biochemical high throughput primary assay to identify inhibitors of sialic acid acetylesterase (SIAE)
+1159524,Confirmatory,High Throughput Screening for Foot and Mouth Disease Virus Antivirals
+1159583,Other,High throughput screen for small molecule inhibitors of a hypoxia-regulated fluorescent biosensor in Mycobacterium tuberculosis
+1159606,Other,uHTS identification of small molecule inhibitors of TWEAK-Fn14 interactions
+1224865,Screening,Identify inhibitors of HNF4 alpha protein binding to DNA
+1259309,Other,A screen for compounds that are lethal to S. aureus RN4220 with the processive glycosyltransferase UgtP deleted
+1259310,Screening,AlphaScreen-based biochemical high throughput primary assay to identify activators of the E3 ligase (FBW7).
+1259311,Other,A screen for compounds that are lethal to S. aureus RN4220
+1259313,Screening,uHTS identification of small molecule modulators of NR3A
+1259318,Screening,uHTS identification of small molecule modulators of Rev-erb Alpha.
+1259374,Screening,AlphaScreen-based biochemical high throughput primary assay to identify inhibitors of microphthalmia-associated transcription factor (MITF)
+1259398,Screening,human cGAS chemiluminescence screen
+1259400,Screening,qHTS Assay for Antagonists of the Relaxin Receptor RXFP1
+1259415,Screening,qHTS Assay for inhibitors of the human cytomegalovirus (HCMV)
+1259422,Screening,Luminescence cell-based high throughput primary assay to identify inhibitors of TEAD-YAP interaction.
+1272365,Screening,SSB-PriA antibiotic resistant target AlphaScreen
+1346378,Screening,qHTS for small molecular inhibitors of PI4K2A
+1347041,Screening,qHTS assay for inhibitors of human lactate dehydrogenase
+1347056,Screening,Inhibitor identification of TROY dependent signaling using uHTS single point assay
+1347071,Confirmatory,qHTS for compounds that reverse cellular toxicity of Amyloid beta (A-beta) peptide in yeast: Primary Screen
+1347075,Confirmatory,qHTS assay for MDR1-selective chemotherapeutics: Primary screen using the parental adenocarcinoma cell KB-3-1
+1347076,Confirmatory,qHTS assay for MDR1-selective chemotherapeutics: Primary screen using the drug-selected MDR subline cells KB-V1
+1347120,Confirmatory,qHTS for Suppressors of FUS Proteinopathy: Primary screen using FUS-linked yeast assay
+1347131,Confirmatory,qHTS Assay for Foot and Mouth Disease Virus Antivirals: Primary Screen against the MLPCN compound library
+1508602,Screening,Cell-based high throughput primary assay to identify activators of GPR151
+1671190,Confirmatory,Primary qHTS assay for inhibitors of human arachidonate 12S-lipoxygenase (ALOX12): Round 2
+1671463,Screening,High-throughput screening primary assay to identify small molecule activators of human GC-A enzyme activity
+1745845,Confirmatory,Primary qHTS for Inhibitors of ATXN expression

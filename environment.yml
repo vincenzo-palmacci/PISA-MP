@@ -1,0 +1,16 @@
+name: pisa-mp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - imbalanced-learn
+  - ca-certificates
+  - certifi
+  - openssl
+  - rdkit
+  - optuna
+  - pip:
+    - upsetplot
