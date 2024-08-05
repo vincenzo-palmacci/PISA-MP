@@ -63,3 +63,5 @@ Make sure to replace the argument values with those specific to your dataset and
 ## Acknowledgments
 
 This project was developed in collaboration with the COMP3D group at the University of Vienna. Special thanks to the team for their invaluable support and contributions.
+
+The authors gratefully acknowledge the support from the European Commission's Horizon 2020 Framework Programme (AIDD; grant no. 956832).
